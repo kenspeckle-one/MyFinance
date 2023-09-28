@@ -1,0 +1,15 @@
+c:\Source\MyFinance\Src\Application\bin\Debug\net7.0\Application.deps.json
+c:\Source\MyFinance\Src\Application\bin\Debug\net7.0\Application.dll
+c:\Source\MyFinance\Src\Application\bin\Debug\net7.0\Application.pdb
+c:\Source\MyFinance\Src\Application\bin\Debug\net7.0\Domain.dll
+c:\Source\MyFinance\Src\Application\bin\Debug\net7.0\Domain.pdb
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.dll
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\refint\Application.dll
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\Application.pdb
+c:\Source\MyFinance\Src\Application\obj\Debug\net7.0\ref\Application.dll

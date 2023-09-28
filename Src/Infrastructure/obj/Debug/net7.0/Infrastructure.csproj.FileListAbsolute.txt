@@ -1,0 +1,11 @@
+c:\Source\MyFinance\Src\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+c:\Source\MyFinance\Src\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+c:\Source\MyFinance\Src\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+c:\Source\MyFinance\Src\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

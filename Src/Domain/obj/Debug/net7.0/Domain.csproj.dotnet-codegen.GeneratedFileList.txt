@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Transaction.DIUkDXZq.generated.cs
+obj\Debug\net7.0\Domain.GlobalUsings.g.RJ2YTjT7.generated.cs

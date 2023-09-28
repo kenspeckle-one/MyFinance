@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {}
+    "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
+    "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "c:\\Source\\MyFinance\\Src\\Domain\\obj\\",
+        "outputPath": "C:\\Source\\MyFinance\\Src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "StronglyTypedId": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
