@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "5u9pewcXONnnAO/RcZo1Z59cu4/j6Jrtbdseg0h1avFl25e0TxGLWaTGAsarHJ+gCk4mhgVOrBCSgUXxAsKwig==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard\\.nuget\\packages\\fastendpoints\\5.17.1.1\\fastendpoints.5.17.1.1.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\fastendpoints.attributes\\5.17.1.1\\fastendpoints.attributes.5.17.1.1.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\fastendpoints.messaging.core\\5.17.1.1\\fastendpoints.messaging.core.5.17.1.1.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
