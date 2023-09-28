@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {}
+    "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj": {}
   },
   "projects": {
-    "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {
+    "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
+        "projectName": "Application.Tests.Unit",
+        "projectPath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "c:\\Source\\MyFinance\\WebAPI\\obj\\",
+        "outputPath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,17 +43,25 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "FastEndpoints": {
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[5.17.1.1, )"
+              "version": "[17.6.0, )"
             },
-            "Microsoft.AspNetCore.OpenApi": {
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[3.2.0, )"
             },
-            "Swashbuckle.AspNetCore": {
+            "xunit": {
               "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
             }
           },
           "imports": [
@@ -68,9 +76,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

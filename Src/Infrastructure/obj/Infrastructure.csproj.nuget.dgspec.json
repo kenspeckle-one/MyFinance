@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {}
+    "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {
+    "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "c:\\Source\\MyFinance\\WebAPI\\obj\\",
+        "outputPath": "c:\\Source\\MyFinance\\Src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,20 +42,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "FastEndpoints": {
-              "target": "Package",
-              "version": "[5.17.1.1, )"
-            },
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -68,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
