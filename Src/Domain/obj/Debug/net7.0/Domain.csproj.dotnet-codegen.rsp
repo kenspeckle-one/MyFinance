@@ -343,7 +343,7 @@ C:\Users\Richard\.nuget\packages\stronglytypedid.generator\0.2.1\build\../tools/
 --out
 obj\Debug\net7.0\
 --projectDir
-C:\Source\MyFinance\Src\Domain
+c:\Source\MyFinance\Src\Domain
 --generatedFilesList
 obj\Debug\net7.0\Domain.csproj.dotnet-codegen.GeneratedFileList.txt
 --

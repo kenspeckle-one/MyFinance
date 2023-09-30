@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QYxZfYd7SyMW39YIWZdPJ6vDeYfTj5m4v59PvRP3bodcaahlSZFo5QVHOEayzBrEJCLk5LkIfbPUGIdtrqHJSw==",
+  "dgSpecHash": "8/TyFvg3lNE30UMCBnAMGTM+HnQHVrhdKtXgZ6jCcSz106EmFTRff64TBdkj13yzd2x2ueRubuY4yVjKbv1mHA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
+  "projectFilePath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Richard\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Richard\\.nuget\\packages\\codegeneration.roslyn.attributes\\0.7.63\\codegeneration.roslyn.attributes.0.7.63.nupkg.sha512",

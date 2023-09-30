@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "c:\\Source\\MyFinance\\Src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Source\\MyFinance\\Src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

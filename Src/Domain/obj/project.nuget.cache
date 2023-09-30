@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E4u5sKDZJMyoqExYtyy9NwMk7GZwNHdZTgBA/V4giVk6ga9QLxtwcc4o82b3tBFe5TeuCIRkfK8mlEHIBOiIMA==",
+  "dgSpecHash": "KcEMML/XJxbT8fa73AUZ8gQpPnXeDOdpBj0kJR28b1RV73r7pMJzL4730flupLtWVT5ppIPAiPqg8K5d02jBDA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Richard\\.nuget\\packages\\codegeneration.roslyn.attributes\\0.7.63\\codegeneration.roslyn.attributes.0.7.63.nupkg.sha512",
     "C:\\Users\\Richard\\.nuget\\packages\\codegeneration.roslyn.tool\\0.7.63\\codegeneration.roslyn.tool.0.7.63.nupkg.sha512",

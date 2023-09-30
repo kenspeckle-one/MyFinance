@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {
+    "C:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "c:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Source\\MyFinance\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "c:\\Source\\MyFinance\\WebAPI\\obj\\",
+        "outputPath": "C:\\Source\\MyFinance\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

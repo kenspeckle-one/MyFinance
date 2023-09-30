@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "efAbln9gMS+WjZq71FIkAQDbTMHQ3rXPCmEkKZgHPx6ihENJ2nCSdpbcAz2SMJHLyj3kuy+gbhftIgb9o6ZjkA==",
+  "dgSpecHash": "aiXYn3qUmo0gJIf9lLE2EP0fw+rErLYimG8mqqbWB+bEcyphObD+E+uppNv9/jBy5ZbZgg2uphkSfH1wF+vXdA==",
   "success": true,
-  "projectFilePath": "c:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Source\\MyFinance\\Src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

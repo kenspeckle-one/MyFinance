@@ -5,7 +5,16 @@ public class Create
     public async Task Add(ICreateTransaction? creator,
         Transaction? transaction) 
     {
-        // TODO: Test the creator and transaction are not null.
+        if (creator is null)
+        {
+            throw new ArgumentNullException(nameof(creator));
+        }
+
+        if (transaction is null)
+        {
+            throw new ArgumentNullException(nameof(transaction));
+        }
+
         await creator.Create(transaction);
     }
 }

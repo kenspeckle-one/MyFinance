@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {}
+    "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
+    "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\MyFinance\\Src\\Domain\\obj\\",
+        "outputPath": "c:\\Source\\MyFinance\\Src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

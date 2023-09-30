@@ -5807,11 +5807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
+      "projectUniqueName": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
       "projectName": "Application.Tests.Unit",
-      "projectPath": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
+      "projectPath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
       "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\obj\\",
+      "outputPath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5831,11 +5831,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Source\\MyFinance\\Src\\Application\\Application.csproj": {
-              "projectPath": "C:\\Source\\MyFinance\\Src\\Application\\Application.csproj"
+            "c:\\Source\\MyFinance\\Src\\Application\\Application.csproj": {
+              "projectPath": "c:\\Source\\MyFinance\\Src\\Application\\Application.csproj"
             },
-            "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj"
+            "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj"
             }
           }
         }
