@@ -18,28 +18,6 @@
           }
         }
       },
-      "CodeGeneration.Roslyn.Attributes/0.7.63": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.1"
-        },
-        "compile": {
-          "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "CodeGeneration.Roslyn.Tool/0.7.63": {
-        "type": "package",
-        "build": {
-          "build/_._": {}
-        }
-      },
       "coverlet.collector/3.2.0": {
         "type": "package",
         "build": {
@@ -620,32 +598,6 @@
             "assetType": "native",
             "rid": "ubuntu.16.10-x64"
           }
-        }
-      },
-      "StronglyTypedId/0.2.1": {
-        "type": "package",
-        "dependencies": {
-          "CodeGeneration.Roslyn.Tool": "0.7.63",
-          "StronglyTypedId.Attributes": "0.2.1",
-          "StronglyTypedId.Generator": "0.2.1"
-        }
-      },
-      "StronglyTypedId.Attributes/0.2.1": {
-        "type": "package",
-        "dependencies": {
-          "CodeGeneration.Roslyn.Attributes": "0.7.63"
-        },
-        "compile": {
-          "lib/netstandard2.0/StronglyTypedId.Attributes.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/StronglyTypedId.Attributes.dll": {}
-        }
-      },
-      "StronglyTypedId.Generator/0.2.1": {
-        "type": "package",
-        "build": {
-          "build/_._": {}
         }
       },
       "System.AppContext/4.3.0": {
@@ -1835,9 +1787,6 @@
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "StronglyTypedId": "0.2.1"
-        },
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -1870,90 +1819,6 @@
         "lib/netstandard2.1/Castle.Core.dll",
         "lib/netstandard2.1/Castle.Core.xml",
         "readme.txt"
-      ]
-    },
-    "CodeGeneration.Roslyn.Attributes/0.7.63": {
-      "sha512": "0bJIHIUNVtJT7tih2oKJJ4GYL1+Btmk19vKZIyUHVEqyzT4eP7I6WtDJYqYhX4PhfNMXm2vXWta+y72rkioItg==",
-      "type": "package",
-      "path": "codegeneration.roslyn.attributes/0.7.63",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "codegeneration.roslyn.attributes.0.7.63.nupkg.sha512",
-        "codegeneration.roslyn.attributes.nuspec",
-        "lib/net20/CodeGeneration.Roslyn.Attributes.dll",
-        "lib/net20/CodeGeneration.Roslyn.Attributes.xml",
-        "lib/net40/CodeGeneration.Roslyn.Attributes.dll",
-        "lib/net40/CodeGeneration.Roslyn.Attributes.xml",
-        "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll",
-        "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.xml"
-      ]
-    },
-    "CodeGeneration.Roslyn.Tool/0.7.63": {
-      "sha512": "vVDnx1LYkfU/idZqe76uUgEQD+yic3Kvft6gthwQaqKl66RnMvTTtuW0NxQ84RPrgpLvF+5rku43eVNZWuQ3aQ==",
-      "type": "package",
-      "path": "codegeneration.roslyn.tool/0.7.63",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/CodeGeneration.Roslyn.Tool.props",
-        "build/CodeGeneration.Roslyn.Tool.targets",
-        "build/ToolPath.props",
-        "codegeneration.roslyn.tool.0.7.63.nupkg.sha512",
-        "codegeneration.roslyn.tool.nuspec",
-        "tools/any/CodeGeneration.Roslyn.Attributes.dll",
-        "tools/any/CodeGeneration.Roslyn.Attributes.pdb",
-        "tools/any/CodeGeneration.Roslyn.Attributes.xml",
-        "tools/any/CodeGeneration.Roslyn.Engine.dll",
-        "tools/any/CodeGeneration.Roslyn.Engine.pdb",
-        "tools/any/CodeGeneration.Roslyn.Engine.xml",
-        "tools/any/CodeGeneration.Roslyn.Tool.deps.json",
-        "tools/any/CodeGeneration.Roslyn.Tool.dll",
-        "tools/any/CodeGeneration.Roslyn.Tool.pdb",
-        "tools/any/CodeGeneration.Roslyn.Tool.runtimeconfig.json",
-        "tools/any/CodeGeneration.Roslyn.Tool.xml",
-        "tools/any/CodeGeneration.Roslyn.dll",
-        "tools/any/CodeGeneration.Roslyn.pdb",
-        "tools/any/CodeGeneration.Roslyn.xml",
-        "tools/any/McMaster.NETCore.Plugins.dll",
-        "tools/any/Microsoft.Bcl.AsyncInterfaces.dll",
-        "tools/any/Microsoft.CodeAnalysis.CSharp.dll",
-        "tools/any/Microsoft.CodeAnalysis.dll",
-        "tools/any/Microsoft.DotNet.PlatformAbstractions.dll",
-        "tools/any/Microsoft.Extensions.DependencyModel.dll",
-        "tools/any/System.Runtime.CompilerServices.Unsafe.dll",
-        "tools/any/System.Text.Encoding.CodePages.dll",
-        "tools/any/System.Text.Encodings.Web.dll",
-        "tools/any/System.Text.Json.dll",
-        "tools/any/Validation.dll",
-        "tools/any/cs/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/cs/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/de/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/de/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/es/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/es/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/fr/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/fr/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/it/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/it/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/ja/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/ja/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/ko/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/ko/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/pl/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/pl/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/pt-BR/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/ru/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/ru/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll",
-        "tools/any/tr/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/tr/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/zh-Hans/Microsoft.CodeAnalysis.resources.dll",
-        "tools/any/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "tools/any/zh-Hant/Microsoft.CodeAnalysis.resources.dll"
       ]
     },
     "coverlet.collector/3.2.0": {
@@ -2620,48 +2485,6 @@
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
         "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.nuspec",
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
-      ]
-    },
-    "StronglyTypedId/0.2.1": {
-      "sha512": "u4iIugBvaBiV1NXAS+jBkxDp+VyNFzgOzeRBgQx9QAtKmwFmOh6bOFt9Ac25XCcfhTvp8OT4eLCmCPAUPObIxg==",
-      "type": "package",
-      "path": "stronglytypedid/0.2.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "stronglytypedid.0.2.1.nupkg.sha512",
-        "stronglytypedid.nuspec"
-      ]
-    },
-    "StronglyTypedId.Attributes/0.2.1": {
-      "sha512": "8fv1kZxwmFTf2oPaIG9XF1o3obOwa2ZaCFfYAE3u+stqWHtJ3ECsJdpzQh0ST661TnfG8/iDm+xS8ZO4C2rEeQ==",
-      "type": "package",
-      "path": "stronglytypedid.attributes/0.2.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard1.0/StronglyTypedId.Attributes.dll",
-        "lib/netstandard2.0/StronglyTypedId.Attributes.dll",
-        "stronglytypedid.attributes.0.2.1.nupkg.sha512",
-        "stronglytypedid.attributes.nuspec"
-      ]
-    },
-    "StronglyTypedId.Generator/0.2.1": {
-      "sha512": "3qJP96Paz7LqYyhwFGLHBlHfxZe9AHLvvHYGpxzWfKudgo7dJPgpOwQHclTW/lzefOTw81exXCAkA/tSFU5uAg==",
-      "type": "package",
-      "path": "stronglytypedid.generator/0.2.1",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/StronglyTypedId.Generator.props",
-        "build/StronglyTypedId.Generator.targets",
-        "stronglytypedid.generator.0.2.1.nupkg.sha512",
-        "stronglytypedid.generator.nuspec",
-        "tools/netcoreapp2.1/any/CodeGeneration.Roslyn.Attributes.dll",
-        "tools/netcoreapp2.1/any/StronglyTypedId.Attributes.dll",
-        "tools/netcoreapp2.1/any/StronglyTypedId.Generator.deps.json",
-        "tools/netcoreapp2.1/any/StronglyTypedId.Generator.dll"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -5807,11 +5630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
+      "projectUniqueName": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
       "projectName": "Application.Tests.Unit",
-      "projectPath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
+      "projectPath": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\Application.Tests.Unit.csproj",
       "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-      "outputPath": "c:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\obj\\",
+      "outputPath": "C:\\Source\\MyFinance\\Tests\\Application.Tests.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5831,11 +5654,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Source\\MyFinance\\Src\\Application\\Application.csproj": {
-              "projectPath": "c:\\Source\\MyFinance\\Src\\Application\\Application.csproj"
+            "C:\\Source\\MyFinance\\Src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Source\\MyFinance\\Src\\Application\\Application.csproj"
             },
-            "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj"
+            "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Source\\MyFinance\\Src\\Domain\\Domain.csproj"
             }
           }
         }

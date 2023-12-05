@@ -1,6 +1,6 @@
 ﻿namespace Domain;
-
-[StronglyTypedId(jsonConverter: StronglyTypedIdJsonConverter.SystemTextJson)]
+    
+[StronglyTypedId]
 public partial struct TransactionId {}
 
 public class Transaction

@@ -1,8 +1,4 @@
 c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
-c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.csproj.dotnet-codegen.rsp
-c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Transaction.DIUkDXZq.generated.cs
-c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.GlobalUsings.g.RJ2YTjT7.generated.cs
-c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.csproj.dotnet-codegen.GeneratedFileList.txt
 c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
 c:\Source\MyFinance\Src\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs

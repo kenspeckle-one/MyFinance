@@ -31,18 +31,6 @@
           }
         }
       },
-      "CodeGeneration.Roslyn.Attributes/0.7.63": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.1"
-        },
-        "runtime": {
-          "lib/netstandard1.0/CodeGeneration.Roslyn.Attributes.dll": {
-            "assemblyVersion": "0.7.0.0",
-            "fileVersion": "0.7.63.30646"
-          }
-        }
-      },
-      "CodeGeneration.Roslyn.Tool/0.7.63": {},
       "coverlet.collector/3.2.0": {},
       "Microsoft.CodeCoverage/17.6.0": {
         "runtime": {
@@ -437,25 +425,6 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
-      "StronglyTypedId/0.2.1": {
-        "dependencies": {
-          "CodeGeneration.Roslyn.Tool": "0.7.63",
-          "StronglyTypedId.Attributes": "0.2.1",
-          "StronglyTypedId.Generator": "0.2.1"
-        }
-      },
-      "StronglyTypedId.Attributes/0.2.1": {
-        "dependencies": {
-          "CodeGeneration.Roslyn.Attributes": "0.7.63"
-        },
-        "runtime": {
-          "lib/netstandard2.0/StronglyTypedId.Attributes.dll": {
-            "assemblyVersion": "0.2.1.0",
-            "fileVersion": "0.2.1.0"
-          }
-        }
-      },
-      "StronglyTypedId.Generator/0.2.1": {},
       "System.AppContext/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1107,9 +1076,6 @@
         }
       },
       "Domain/1.0.0": {
-        "dependencies": {
-          "StronglyTypedId": "0.2.1"
-        },
         "runtime": {
           "Domain.dll": {}
         }
@@ -1128,20 +1094,6 @@
       "sha512": "sha512-rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
       "path": "castle.core/5.1.1",
       "hashPath": "castle.core.5.1.1.nupkg.sha512"
-    },
-    "CodeGeneration.Roslyn.Attributes/0.7.63": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-0bJIHIUNVtJT7tih2oKJJ4GYL1+Btmk19vKZIyUHVEqyzT4eP7I6WtDJYqYhX4PhfNMXm2vXWta+y72rkioItg==",
-      "path": "codegeneration.roslyn.attributes/0.7.63",
-      "hashPath": "codegeneration.roslyn.attributes.0.7.63.nupkg.sha512"
-    },
-    "CodeGeneration.Roslyn.Tool/0.7.63": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-vVDnx1LYkfU/idZqe76uUgEQD+yic3Kvft6gthwQaqKl66RnMvTTtuW0NxQ84RPrgpLvF+5rku43eVNZWuQ3aQ==",
-      "path": "codegeneration.roslyn.tool/0.7.63",
-      "hashPath": "codegeneration.roslyn.tool.0.7.63.nupkg.sha512"
     },
     "coverlet.collector/3.2.0": {
       "type": "package",
@@ -1338,27 +1290,6 @@
       "sha512": "sha512-VB5cn/7OzUfzdnC8tqAIMQciVLiq2epm2NrAm1E9OjNRyG4lVhfR61SMcLizejzQP8R8Uf/0l5qOIbUEi+RdEg==",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
-    },
-    "StronglyTypedId/0.2.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-u4iIugBvaBiV1NXAS+jBkxDp+VyNFzgOzeRBgQx9QAtKmwFmOh6bOFt9Ac25XCcfhTvp8OT4eLCmCPAUPObIxg==",
-      "path": "stronglytypedid/0.2.1",
-      "hashPath": "stronglytypedid.0.2.1.nupkg.sha512"
-    },
-    "StronglyTypedId.Attributes/0.2.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-8fv1kZxwmFTf2oPaIG9XF1o3obOwa2ZaCFfYAE3u+stqWHtJ3ECsJdpzQh0ST661TnfG8/iDm+xS8ZO4C2rEeQ==",
-      "path": "stronglytypedid.attributes/0.2.1",
-      "hashPath": "stronglytypedid.attributes.0.2.1.nupkg.sha512"
-    },
-    "StronglyTypedId.Generator/0.2.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-3qJP96Paz7LqYyhwFGLHBlHfxZe9AHLvvHYGpxzWfKudgo7dJPgpOwQHclTW/lzefOTw81exXCAkA/tSFU5uAg==",
-      "path": "stronglytypedid.generator/0.2.1",
-      "hashPath": "stronglytypedid.generator.0.2.1.nupkg.sha512"
     },
     "System.AppContext/4.3.0": {
       "type": "package",

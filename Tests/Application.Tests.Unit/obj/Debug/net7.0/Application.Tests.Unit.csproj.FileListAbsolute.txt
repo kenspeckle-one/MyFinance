@@ -9,7 +9,6 @@ c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Application.Te
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Application.Tests.Unit.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Application.Tests.Unit.pdb
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Castle.Core.dll
-c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\CodeGeneration.Roslyn.Attributes.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -21,7 +20,6 @@ c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Microsoft.Visu
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\Newtonsoft.Json.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\NSubstitute.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\NuGet.Frameworks.dll
-c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\StronglyTypedId.Attributes.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\xunit.abstractions.dll
 c:\Source\MyFinance\Tests\Application.Tests.Unit\bin\Debug\net7.0\xunit.assert.dll
