@@ -22,11 +22,6 @@ steps:
     projects: '**/*.csproj'
     feedsToUse: 'select'
 
-# - task: UseDotNet@2
-#   displayName: "Use Dotnet 7"
-#   inputs:
-#     version: '7.x'
-    
 - task: DotNetCoreCLI@2
   displayName: 'Build Projects'
   inputs:
