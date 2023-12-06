@@ -31,7 +31,7 @@ steps:
   displayName: 'Build Projects'
   inputs:
     command: 'build'
-    arguments: '--no-restore --configuration $(build.artifactStagingDirectory)'
+    arguments: '--no-restore --configuration $(build.buildConfiguration)'
     projects: '**/*.csproj'
 
 - task: DotNetCoreCLI@2
@@ -39,7 +39,7 @@ steps:
   inputs:
     command: test
     projects: '**/*.csproj'
-    arguments: '--no-restore  --configuration $(build.artifactStagingDirectory)'
+    arguments: '--no-restore  --configuration $(build.buildConfiguration)'
 
 #- task: NuGetToolInstaller@1
 
