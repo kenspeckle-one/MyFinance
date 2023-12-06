@@ -14,7 +14,6 @@ public class CreateTests
 
         var actual = await Assert.ThrowsAsync<ArgumentNullException>(add);
         Assert.NotNull(actual.ParamName);
-        Assert.NotNull(actual.ParamName);
     }
 
     [Fact]
@@ -25,7 +24,6 @@ public class CreateTests
         var add = async () => await target.Add(Substitute.For<ICreateTransaction>(), null);
 
         var actual = await Assert.ThrowsAsync<ArgumentNullException>(add);
-        Assert.NotNull(actual.ParamName);
         Assert.NotNull(actual.ParamName);
     }
 
